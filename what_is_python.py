@@ -55,3 +55,5 @@ please google it and learn as if I will help you will not research and use your 
  """
 print("today is 2030 and I am fucking society with my own revolutionary movement !!!long live meritocracy ") #first  code of your python
 
+"""When using a computer, you will need to download and install Python from www.python.org.
+Note the >>> in the code above. They are the prompt symbol of the Python console. Python is an interpreted language, which means that each line is executed as it is entered. Python also includes IDLE, the integrated development environment, which includes tools for writing and debugging entire programs."""
