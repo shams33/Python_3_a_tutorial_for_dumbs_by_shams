@@ -6,3 +6,8 @@ x="2"
 y="3"
 print(x+y)
 print(int('2')+int('3'))
+"""Another example of type conversion is turning user input (which is a string) to numbers (integers or floats), to allow for the performance of calculations."""
+
+x=float(input("enter number"))
+y=float(input("enter aanother number"))
+print(x+y)
